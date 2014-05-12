@@ -1,0 +1,17 @@
+Steps
+
+1/ Go to github.com/mattwalker62/devtest and and clone/download the repo
+
+2/ using the code igniter framework create a one page signup page… fields should include first name, last name, email address and password…
+
+3/ When finished send me all the files
+
+NOTES / INSTRUCTIONS
+
+data should be sent to a sql database table called 'users' with the four columns…
+people should have to fill out every field and if they do not a bootstrap error message should appear…
+on successfully filling out the page they should be directed to a page that says Thank You.
+please use any necessary functions from the three frameworks (codeigniter / jquery / bootstrap)
+this is a default codeigniter install, so nothing customized has been configured, please make the necessary adjustments
+the ASSETS folder contains all the javascript and css files, feel free to add where necessary
+do not make changes to the initial bootstrap / jquery files… feel free to create a separate css or js file if necessary
