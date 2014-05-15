@@ -13,5 +13,6 @@ NOTES / INSTRUCTIONS
 - on successfully filling out the page they should be directed to a page that says Thank You.
 - please use any necessary functions from the three frameworks (codeigniter / jquery / bootstrap)
 - this is a default codeigniter install, so nothing customized has been configured, please make the necessary adjustments
-- the ASSETS folder contains all the javascript and css files, feel free to add where necessary
-- do not make changes to the initial bootstrap / jquery files… feel free to create a separate css or js file if necessary
+- the ASSETS folder contains all the javascript and css files
+- do not make changes to the initial bootstrap / jquery files, feel free to create a separate css or js file if necessary
+- please use the framework versions provided
